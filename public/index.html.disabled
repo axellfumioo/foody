@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<nav class="bg-orange-200">
+    <div class="max-w-6xl mx-auto px-4">
+      <div class="flex justify-between">
+        <div class="flex space-x-4">
+          <div>
+            <a href="#" class="flex items-center py-5 px-2 text-gray-700 hover:text-gray-900">
+              <img class="w-12 h-10" src="./img/logo.png">
+              <span class="font-bold">Foody</span>
+            </a>
+          </div>
+          <div class="hidden md:flex items-center space-x-1">
+            <a href="#" class="py-5 px-3 text-gray-700 hover:text-gray-900">Features</a>
+            <a href="#" class="py-5 px-3 text-gray-700 hover:text-gray-900">Pricing</a>
+          </div>
+        </div>
+        <div class="hidden md:flex items-center space-x-1">
+          <a href="" class="py-5 px-3 hover:text-gray-800">Login</a>
+          <a href="" class="py-2 px-3 bg-yellow-400 hover:bg-yellow-300 text-yellow-900 hover:text-yellow-800 rounded transition duration-300">Signup</a>
+        </div>
+      </div>
+    </div>
+    
+</html>
